@@ -1,4 +1,7 @@
 package com.ywx.ble
 
-class Callback {
+interface Callback {
+    fun onSuccess(result: String)
+    fun onSendSuccess()
+    fun onError()
 }

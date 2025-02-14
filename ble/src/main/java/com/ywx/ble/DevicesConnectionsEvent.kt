@@ -1,4 +1,3 @@
 package com.ywx.ble
 
-class DevicesConnectionsEvent {
-}
+class DevicesConnectionsEvent(var status:Boolean=false)

@@ -1,4 +1,3 @@
 package com.ywx.ble
 
-class DataEvent {
-}
+class DataEvent (var data: String)

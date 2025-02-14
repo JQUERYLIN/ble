@@ -1,4 +1,3 @@
 package com.ywx.ble
 
-class GattReceiverEvent {
-}
+class GattReceiverEvent (var eventType: String)
