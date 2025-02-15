@@ -83,8 +83,8 @@ publishing {
     publications {
         maven(MavenPublication) {
             groupId = 'com.github.JQUERYLIN'
-            artifactId = 'ywxlibrary'
-            version = 'v1.0.0'
+            artifactId = 'ble'
+            version = 'v1.0.0.4'
         }
     }
     // 替换为你的仓库地址
